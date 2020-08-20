@@ -10,3 +10,5 @@ def display_board(board)
   puts "-----------"
   puts " #{board[6]}  | #{borad[7]}  |  #{borad[8]} "
 end 
+
+display_board(board) 
